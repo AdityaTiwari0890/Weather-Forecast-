@@ -82,7 +82,8 @@ Explore the dashboard using filters and slicers
 
 📷 Dashboard Preview
 
-(Add screenshots of your Power BI dashboard here)
+<img width="1106" height="611" alt="image" src="https://github.com/user-attachments/assets/045fde92-3b5c-4365-a7aa-1ca11dd06a5b" />
+
 
 📈 Learning Outcomes
 
